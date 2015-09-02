@@ -1,0 +1,6 @@
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe.config
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.pdb
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.csprojResolveAssemblyReference.cache
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.exe
+c:\users\salma\documents\visual studio 2012\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.pdb

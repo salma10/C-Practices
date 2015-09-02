@@ -1,0 +1,6 @@
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe.config
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.pdb
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.csprojResolveAssemblyReference.cache
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.exe
+c:\users\salma\documents\visual studio 2012\Projects\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.pdb

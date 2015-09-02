@@ -1,0 +1,6 @@
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csprojResolveAssemblyReference.cache
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+c:\users\salma\documents\visual studio 2012\Projects\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb
